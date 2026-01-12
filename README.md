@@ -4,7 +4,7 @@
 
 <h1 align="center">📊 Gina Fernanda | Big Data & Storytelling</h1>
 
-# 👩‍🍳 Gina Fernanda Patiño Tamayo | Data Storyteller & Big Data Enthusiast
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
