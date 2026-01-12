@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ginafrd
 - 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can contact me by email
 
