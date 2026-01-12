@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Gina%20Data%20Studio&fontSize=80" />
 </p>
+
 # 👩‍🍳 Gina Fernanda Patiño Tamayo | Data Storyteller & Big Data Enthusiast
 
 <p align="left">
