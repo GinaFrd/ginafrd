@@ -4,6 +4,8 @@
 
 <div align="center">
 
+ # 👩‍🍳 La Cocina de Datos
+
 | Habilidad | Herramientas | Objetivo |
 | :--- | :--- | :--- |
 | **Data Analysis** | Python, Pandas | Limpieza de Datasets |
