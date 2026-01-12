@@ -2,18 +2,15 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake game" />
 </p>
 
-<h1 align="center">📊 Gina Fernanda | Big Data & Storytelling</h1>
-<p align="center">
- 👩‍🍳 La Cocina de Datos
+<div align="center">
 
 | Habilidad | Herramientas | Objetivo |
 | :--- | :--- | :--- |
 | **Data Analysis** | Python, Pandas | Limpieza de Datasets |
 | **Visualización** | Jupyter, Storytelling | Diseño Comestible |
-| **Big Data** | Cloud Computing | Escalar Insights |>
+| **Big Data** | Cloud Computing | Escalar Insights |
 
----
-</p>
+</div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
