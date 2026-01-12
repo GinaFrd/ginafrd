@@ -1,3 +1,5 @@
+![Banner de Gina](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Gina%20Data%20Studio&fontSize=70&animation=fadeIn)
+
 # 👩‍🍳 Gina Fernanda Patiño Tamayo | Data Storyteller & Big Data Enthusiast
 
 <p align="left">
