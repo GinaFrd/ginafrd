@@ -27,7 +27,7 @@ Aquí puedes ver mi actividad técnica y evolución en el código:
 - [ ] **Storytelling:** Conversión de mi CV técnico en una narrativa visual interactiva.
 - [ ] **Automation:** Mejora de scripts de extracción de datos culinarios.
 
-📫 **Contacto técnico:** [Tu Email Aquí]
+📫 **Contacto técnico:** bigdatagina@gmail.com
 ### 📩 Contacto
 ¿Tienes un proyecto en mente o quieres compartir una receta de código? 
 📫 ¡bigdatagina@gmail.com¡
