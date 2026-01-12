@@ -1,7 +1,8 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Gina%20Data%20Studio&fontSize=80" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake game" />
 </p>
+
+<h1 align="center">📊 Gina Fernanda | Big Data & Storytelling</h1>
 
 # 👩‍🍳 Gina Fernanda Patiño Tamayo | Data Storyteller & Big Data Enthusiast
 
