@@ -4,6 +4,15 @@
 
 <h1 align="center">📊 Gina Fernanda | Big Data & Storytelling</h1>
 
+# 👩‍🍳 La Cocina de Datos
+
+| Habilidad | Herramientas | Objetivo |
+| :--- | :--- | :--- |
+| **Data Analysis** | Python, Pandas | Limpieza de Datasets |
+| **Visualización** | Jupyter, Storytelling | Diseño Comestible |
+| **Big Data** | Cloud Computing | Escalar Insights |
+
+---
 
 
 <p align="left">
